@@ -10,5 +10,6 @@ public class Git_test {
         System.out.println("here is hot-fix22");
         System.out.println("push test");
         System.out.println("push test22");
+        System.out.println("GitHub add this!!!");
     }
 }
